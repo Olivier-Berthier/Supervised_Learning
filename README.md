@@ -2,7 +2,8 @@
 Projet Executive Master Statistique & Intelligence artificielle (Master 2 - Dauphine PSL)
 Classification sur ensemble de test (muet) 
 
-Objectif du projet
+Objectif du projet :  
+
 Ce projet consiste à construire un modèle prédictif afin d’estimer une caractéristique non divulguée liée au statut socio-économique de 100 087 individus résidant en France métropolitaine. La variable cible à prédire n’est disponible que dans le jeu de données d’apprentissage. Le travail porte particulièrement sur la préparation de données, la mise en œuvre de modèles avancés, la gestion des valeurs manquantes, et l’évaluation des performances via des métriques standards et la validation croisée.
 
 Contraintes :
